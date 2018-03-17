@@ -54,3 +54,8 @@
 	
 	margin-bottom: 10%;	
 }
+.noborder
+{
+    background: transparent;
+    border: none;
+}
