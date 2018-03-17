@@ -46,11 +46,11 @@
 	color: white
 }
 .notbold
-{
-	font-weight: normal
+{ color: grey;
+	font-weight: normal;
 }
 .mohit
 {
-	margin-bottom: 15%;
-	margin-top: 10%
+	
+	margin-bottom: 10%;	
 }
